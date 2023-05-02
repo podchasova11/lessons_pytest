@@ -1,1 +1,1 @@
-# lessons_pytest
+# tests_pytest
