@@ -16,10 +16,3 @@ class TestStop:
         assert 2 == 2, "Ошибка"
         time.sleep(2)
 
-    def test_4(self):
-        assert 2 == 2, "Ошибка"
-        time.sleep(2)
-
-    def test_5(self):
-        assert 2 == 2, "Ошибка"
-        time.sleep(2)
